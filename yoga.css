@@ -34,6 +34,7 @@ input {
   .icon {
     margin-right: 10px;
     margin-bottom: 50px;
+    border:  4mm ridge rgba(170, 50, 220, .6);
   }
 
   span, 
