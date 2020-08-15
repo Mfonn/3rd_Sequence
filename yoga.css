@@ -16,6 +16,8 @@ input {
     margin-top: 6px;
     margin-bottom: 16px;
   }
+.icon {
+  margin-right: 10px;
   
   /* Style the submit button */
   button {
