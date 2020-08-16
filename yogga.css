@@ -46,7 +46,7 @@ body {
 }
 
 .col-xs-4 {
-    margin-left: 50px;
+    margin-left: 30px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -54,7 +54,7 @@ body {
     width: 200px;
 }
 .hams {
-    margin-left: 50px;
+    margin-left: 30px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
