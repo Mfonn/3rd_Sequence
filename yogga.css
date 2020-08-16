@@ -44,6 +44,23 @@ body {
     height: 200px;
     width: 200px;
 }
+
+.col-xs-4 {
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 200px;
+    width: 200px;
+}
+.hams {
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 200px;
+    width: 200px;
+}
  /* On small screens, set height to 'auto' for the grid */
  @media screen and (max-width: 767px) {
    .row.content {height: auto;} 
