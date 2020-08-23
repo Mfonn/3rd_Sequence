@@ -61,6 +61,10 @@ body {
     height: 200px;
     width: 200px;
 }
+
+.linkh {
+  font-size: 15px;
+}
  /* On small screens, set height to 'auto' for the grid */
  @media screen and (max-width: 767px) {
    .row.content {height: auto;} 
