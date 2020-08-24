@@ -53,6 +53,7 @@ body {
       grid-column-start: 3;
       grid-column-end: 4;
       margin-left: -205px;
+      margin-right: 10px;
       margin-top: 80px;
       font-family: 'Oranienbaum';
       font-size: 30px;
@@ -116,6 +117,7 @@ body {
       grid-column-end: 4;
       margin-top: 650px;
       margin-left: -30px;
+      margin-right: 10px;
       margin-bottom: -200px;
       font-family: 'Oranienbaum';
       font-size: 20px;
@@ -134,6 +136,7 @@ body {
       margin-top: 700px;
       margin-bottom: -200px;
       margin-left: 20px;
+      margin-right: 10px;
       font-family: 'Oranienbaum';
       font-size: 25px;
   }
