@@ -51,3 +51,64 @@ body {
       grid-column-end: 4;
       margin-left: 15px;
   }
+
+  .masalanavid {
+      grid-row-start: 4;
+      grid-row-end: 5;
+      grid-column-start: 1;
+      grid-column-end: 2;
+      margin-top: 60px;
+      margin-bottom: -40px;
+  }
+
+  .masalanatalk {
+      grid-row-start: 4;
+      grid-row-end: 5;
+      grid-column-start: 2;
+      grid-column-end: 3;
+      margin-top: 60px;
+      margin-bottom: -40px;
+  }
+
+  .masalanapic {
+      grid-row-start: 4;
+      grid-row-end: 5;
+      grid-column-start: 3;
+      grid-column-end: 4;
+      margin-top: 60px;
+      margin-bottom: -40px;
+  }
+  .fascialvid {
+       grid-row-start: 5;
+       grid-row-end: 6;
+       grid-column-start: 1;
+       grid-column-end: 2;
+       margin-top: 70px;
+       margin-bottom: -50px;
+       margin-left: 20px;
+       margin-right: -40px;
+  }
+
+  .fascialpic {
+       grid-row-start: 5;
+       grid-row-end: 6;
+       grid-column-start: 2;
+       grid-column-end: 2;
+       margin-top: 200px;
+       margin-bottom: -100px;
+       margin-left: 40px;
+  }
+
+  .fascialtalk {
+      grid-row-start: 5;
+      grid-row-end: 6;
+      grid-column-start: 3;
+      grid-column-end: 4;
+      margin-top: 60px;
+      margin-bottom: -200px;
+  }
+
+  /* On small screens, set height to 'auto' for the grid */
+@media screen and (max-width: 767px) {
+    .row.content {height: auto;} 
+   }
